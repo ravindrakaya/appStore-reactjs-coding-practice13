@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  font-weight: 500;
+  cursor: pointer;
+}
+.activeClassTab {
+  border-bottom: 2px solid #2563eb;
+}
